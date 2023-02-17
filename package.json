@@ -1,0 +1,28 @@
+{
+  "name": "contactmanagmentapp",
+  "version": "1.0.0",
+  "description": "this is express js project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "pavan": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PavanKoshti/ContactManagmentApp.git"
+  },
+  "author": "PavanKoshti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PavanKoshti/ContactManagmentApp/issues"
+  },
+  "homepage": "https://github.com/PavanKoshti/ContactManagmentApp#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
